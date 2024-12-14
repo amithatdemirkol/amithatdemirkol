@@ -1,38 +1,75 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Ahmet Mithat Demirkol
-=============================================================================================================================================
+# Who Am I?
 
-Cyber Security Consultant | Software
-------------------------------------
+🌐 **A Cyber Security Analyst with hands-on experience in vulnerability management, threat intelligence, and backend software development. I specialize in Python-based tool development, API design, and process automation, contributing to security and efficiency across organizations like STM, ASELSAN, and the Ministry of Justice.**  
 
-* 🌍  I'm based in the World
-* 🖥️  See my portfolio at [myPortfolio](http://www.linkedin.com/in/amithatdemirkol/)
-* ✉️  You can contact me at [https://www.linkedin.com/in/amithatdemirkol/](mailto:https://www.linkedin.com/in/amithatdemirkol/)
-* 🧠  I'm learning everything.
+🌟 **Cyber Security Analyst & Software Developer**  
+📧 Email: [amithatdemirkol@gmail.com](mailto:amithatdemirkol@gmail.com)  
+🔗 LinkedIn: [amithatdemirkol](https://www.linkedin.com/in/amithatdemirkol/)  
+💻 GitHub: [amithatdemirkol](https://github.com/amithatdemirkol)  
 
-### Skills
+---
 
+## About Me  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-</p>
+🚀 **Cyber Security Specialist**  
+- Currently working at STM as a Candidate Engineer, focusing on cyber threat analysis, security incident monitoring, and developing Python-based tools for threat intelligence.  
+- Experienced in automating workflows and improving detection processes using custom scripts and frameworks.  
+- Delivered detailed cyber threat analysis reports to strengthen security postures.
 
+🚀 **Backend Software Developer**  
+- Developed and deployed 11 APIs at ASELSAN using modern design patterns, MongoDB, and SQL Server.  
+- Delivered API solutions tailored to enterprise-grade projects, enhancing scalability and efficiency.  
+- Contributed to the development of tools for subdomain management and email automation at the Ministry of Justice, streamlining operations.
 
-### Socials
+🎓 **Graduation Project: Low-Interaction Modular Honeypot**  
+- Designed and developed a modular honeypot system capable of imitating popular network services such as **HTTP, SSH, FTP, SMTP**, and **Telnet** to bait attackers and gather threat intelligence.  
+- Integrated a **protocol tunneling feature**, enabling multiple services to operate on a single port, making it suitable for deployments behind restrictive firewalls.  
+- Built a user-friendly Web UI for real-time monitoring and analysis of malicious activities, including IP-based statistics, geolocation insights, and malicious IP lookups.  
+- Logged detected attacks into a centralized database, allowing easy expansion of the honeypot's capabilities with additional modules or services.  
 
-<p align="left"> <a href="https://www.github.com/amithatdemirkol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amithatdemirkol/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@amithatdemirkol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+---
 
-### Support Me
+## Key Projects  
 
-<a href="https://www.buymeacoffee.com/amithatdemirkol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### [Enigma Machine Simulation with Flask](https://github.com/amithatdemirkol/enigma-flask)  
+- Implemented a web-based simulation of the **Enigma Machine**, a historic cryptographic device used during WWII.  
+- Built with **Flask**, allowing users to encrypt and decrypt messages interactively through an intuitive web interface.  
+- Designed with a focus on educational use, showcasing the logic behind early encryption mechanisms.
+
+### [Port Scanner](https://github.com/amithatdemirkol/port-scanner)  
+- Developed a Python-based **network port scanner** for identifying open ports and services on a target system.  
+- Utilized **socket programming** to perform comprehensive scans and generate actionable outputs.  
+- Optimized for performance and accuracy, making it a lightweight and effective tool for network reconnaissance.
+
+### [Malware Insight](https://github.com/amithatdemirkol/malware-insight)  
+- Created a **malware analysis toolkit** for extracting critical metadata from suspicious files.  
+- Leveraged Python libraries to inspect file headers, analyze file signatures, and detect potential threats.  
+- Provides clear, organized outputs to assist analysts in quick identification of malicious indicators.
+
+---
+
+## Strengths  
+
+Python | C/C++ | Flask | Network Protocols | Cyber Threat Intelligence  
+API Development | Vulnerability Management | Process Automation  
+
+---
+
+## Key Achievements  
+
+🏆 **Teknofest 2023 Finalist** – PARDUS 21 Bug Catching and Suggestion Contest.  
+🎓 **High Honor Student** – Recognized for academic excellence.  
+🚀 **CCNA Certified** – Skilled in networking and protocol analysis.  
+🔍 **Developed:**  
+  - A subdomain management tool and email automation system at the Ministry of Justice.  
+  - Advanced APIs and backend solutions at ASELSAN to support various enterprise applications.  
+
+---
+
+## Connect With Me  
+
+- **GitHub:** [amithatdemirkol](https://github.com/amithatdemirkol)  
+- **LinkedIn:** [amithatdemirkol](https://www.linkedin.com/in/amithatdemirkol/)  
+- **HackerRank:** [amithatdemirkol](https://www.hackerrank.com/profile/20_amithatdkol)  
+- **TryHackMe:** [amithatdemirkol](https://tryhackme.com/p/kuerta)  
+- **Project Euler:** [kuerta](https://projecteuler.net/profile/kuerta)  
