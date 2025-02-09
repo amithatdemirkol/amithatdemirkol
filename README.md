@@ -6,6 +6,8 @@
 📧 Email: [amithatdemirkol@gmail.com](mailto:amithatdemirkol@gmail.com)  
 🔗 LinkedIn: [amithatdemirkol](https://www.linkedin.com/in/amithatdemirkol/)  
 💻 GitHub: [amithatdemirkol](https://github.com/amithatdemirkol)  
+🌍 Website: [amithatdemirkol.github.io](https://amithatdemirkol.github.io/index.html)  
+
 
 ---
 
